@@ -52,7 +52,7 @@ http://localhost:5173/
 - update-status/<int:id>/ → Update Status
 
 ## 📸 Screenshots
-![Screenshot](https://github.com/user-attachments/assets/2f456f34-edf4-4cce-8766-ab9e4bf93a8a)
-![Screenshot](https://github.com/user-attachments/assets/2dfc7d36-8bc9-4455-811e-c00993a02288)
-![Screenshot](https://github.com/user-attachments/assets/105a2a3a-dbbf-4f04-9d93-42be7da356a8)
+![Screenshots](https://github.com/user-attachments/assets/2f456f34-edf4-4cce-8766-ab9e4bf93a8a)
+![Screenshots](https://github.com/user-attachments/assets/2dfc7d36-8bc9-4455-811e-c00993a02288)
+![Screenshots](https://github.com/user-attachments/assets/105a2a3a-dbbf-4f04-9d93-42be7da356a8)
 
